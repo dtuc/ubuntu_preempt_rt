@@ -18,6 +18,7 @@ a Linux kernel patched with PREEMPT_RT for running real-time applications under 
 
 > Optional: If you want to adjust the kernel configuration change into the directory of the linux kernel (e.g. `cd linux-3.18.11-rt7`). Type `make menuconfig` to start the kernel configuration menu.
 
+
 > Optional:  You may want to use your own kernel configuration file. For this, you need to uncomment the following line in `configure.sh`:
 
 ```
